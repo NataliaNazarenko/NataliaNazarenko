@@ -20,14 +20,10 @@
 
 - 🤝Always open to communication.  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -41,8 +37,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -51,8 +45,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Software  
 <div align="center">  
@@ -64,7 +56,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/github.com/NataliaNazarenko " target="_blank">
@@ -75,24 +66,13 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaNazarenko&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-
-
 ### Nice to meet you! See you soon!  
 <img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="left" height="" width="200" />  
-  
 
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
