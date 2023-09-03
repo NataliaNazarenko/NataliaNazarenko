@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -86,7 +86,10 @@
 
 
 ## Recent Blog Posts  
-![](https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif)  
+
+
+### Nice to meet you! See you soon!  
+<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="left" height="" width="200" />  
   
 
 <br/>  
@@ -94,6 +97,16 @@
   
 
 <br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
   
 
