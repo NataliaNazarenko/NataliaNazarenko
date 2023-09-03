@@ -15,29 +15,18 @@
 - 🤝Always open to communication.  
   
 ## My Skill Set  
-<div>
-  <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="./images/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
-  <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="./images/github-original.svg" title="GitHub"  alt="GitHub" width="40"/>&nbsp;
-  <img src="./images/gitlab-original.svg" title="GitLub" alt="GitLub" width="40" height="40"/>&nbsp;
-  <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
-  <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-  <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
-  <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-  <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<div style="align: left; width: 50%;">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
   
 ## Connect with me  
