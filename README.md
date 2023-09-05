@@ -13,8 +13,16 @@
 - 🎨 I like to paint with acrylic and oil paints. I really want to learn how to draw the sky, sea and space.  
   
 - 🤝Always open to communication [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:NatalyaNazarenko.NS@gmail.com)  
-  
-## My Skill Set  
+
+ ### Languages : 
+ 🇺🇦 Ukrainian - native<br>
+ 🇬🇧 English - elementary
+
+### Roadmap 2023 :
+✍️ - **Improve:** `CSS3` | `Java Script` | `React` | `HTML5` <br>
+📚 - **Learn:** `React Native` | `English` <br>
+
+## My stack and tools  
 <div style="align: left; width: 50%;">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
