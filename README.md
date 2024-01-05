@@ -52,8 +52,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaNazarenko&hide_border=true&layout=compact" align="center" /></div> 
 
+
 ### Nice to meet you! See you soon!
 <div align="center">
 <img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" align="center" height="" width="200" />
 </div> 
+<div align="center">
+<a align="center" href="https://u8views.com/github/NataliaNazarenko"><img src="https://u8views.com/api/v1/github/profiles/115888204/views/day-week-month-total-count.svg"></a>
+</div> 
+
 
